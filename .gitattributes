@@ -1,0 +1,2 @@
+*.js linguist-language=css
+*.scss linguist-language=css
